@@ -369,6 +369,7 @@ class Solver {
                 }
             }
         }
+        System.out.println("Change In master");
         return pair;
     }
 }
